@@ -73,7 +73,8 @@
 <br/>  
 
 ## Lets Vibe Together!
-<div align="center">[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=52ufmc458cpvjil2bkvv82f0n&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=52ufmc458cpvjil2bkvv82f0n&redirect=true)
+<div align="center">
+  <a href="(https://spotify-github-profile.vercel.app/api/view?uid=52ufmc458cpvjil2bkvv82f0n&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=52ufmc458cpvjil2bkvv82f0n&redirect=true)"><img src="(https://spotify-github-profile.vercel.app/api/view?uid=52ufmc458cpvjil2bkvv82f0n&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=52ufmc458cpvjil2bkvv82f0n&redirect=true)"/></a>
 </div>
 
 <br/>
