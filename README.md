@@ -22,8 +22,8 @@
 
 <br/>  
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ketan-jakhar&&style=flat-square" align="center" />
+<div>
+  <img src="https://komarev.com/ghpvc/?username=ketan-jakhar&&style=flat-square"/>
 </div>
 
 <br/>
