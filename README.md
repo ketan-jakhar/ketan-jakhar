@@ -1,4 +1,4 @@
-# <div align="center"> <Namastey World!/> <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;"></a> </div>
+# <div align="center"> <Namastey World!/> 🙏 </div>
 
 <br/>
 
