@@ -5,7 +5,7 @@
 ### I'm _**Ketan Jakhar**_, A Full-Stack-Web Development Enthusiast 👨‍💻 
 
 
-- 🎓 A Sophomore Year BTech student at <a href="https://www.lnmiit.ac.in/" target="_blank">**_The LNM Institute of Information technology_**</a>, Jaipur.  
+- 🎓 A Sophomore Year BTech student at <a href="https://www.lnmiit.ac.in/" target="_blank">**_The LNM Institute of Information Technology_**</a>, Jaipur.  
   
 
 - 🌱 I’m currently learning TailwindCSS, React and Node.js  
