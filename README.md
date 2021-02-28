@@ -73,7 +73,8 @@
 <br/>  
 
 ## Lets Vibe Together!
-  <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=52ufmc458cpvjil2bkvv82f0n&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=52ufmc458cpvjil2bkvv82f0n&cover_image=true&theme=compact" /></div>
+<div align="center">[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
+</div>
 
 <br/>
 
