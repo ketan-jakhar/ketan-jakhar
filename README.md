@@ -54,8 +54,8 @@
 ## My Skill Set  
 
 <div align="center">  
-  <img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-  <img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
@@ -73,9 +73,9 @@
 <br/>  
 
 ## Lets Vibe Together!
-<div align="center">
+<div>
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=52ufmc458cpvjil2bkvv82f0n&redirect=true">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=52ufmc458cpvjil2bkvv82f0n&cover_image=true&theme=default" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=52ufmc458cpvjil2bkvv82f0n&cover_image=true&theme=novatorem" />
   </a>
 </div>
 
