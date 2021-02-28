@@ -20,7 +20,7 @@
 - ⚡ Fun fact: I use tabs over spaces  
   
 
-<br/>  
+<br/>
 
 <div>
   <img src="https://komarev.com/ghpvc/?username=ketan-jakhar&&style=flat-square"/>
@@ -73,7 +73,7 @@
 <br/>  
 
 ## Lets Vibe Together!
-<div align="center">[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
+<div align="center">[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=52ufmc458cpvjil2bkvv82f0n&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=52ufmc458cpvjil2bkvv82f0n&redirect=true)
 </div>
 
 <br/>
