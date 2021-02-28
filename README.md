@@ -14,7 +14,7 @@
 - 🔭 Goal-oriented and driven along with strong collaboration skills  
   
 
-- ❓ Open to learn anything related to MERN stack and related technologies  
+- ❓ Open to learn anything related to **MERN** stack and related technologies  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
