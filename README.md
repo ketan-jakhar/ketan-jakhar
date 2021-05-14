@@ -8,7 +8,7 @@
 - 🎓 A Sophomore Year BTech student at <a href="https://www.lnmiit.ac.in/" target="_blank">**_The LNM Institute of Information Technology_**</a>, Jaipur.  
   
 
-- 🌱 I’m currently learning _MaterialUI_,_MongoDB_, _React_ and _Node.js_  
+- 🌱 I’m currently learning _MaterialUI_, _MongoDB_, _React_ and _Node.js_  
   
 
 - 🔭 Goal-oriented and driven along with strong collaboration skills  
