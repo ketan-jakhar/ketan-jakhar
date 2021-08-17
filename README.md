@@ -5,7 +5,7 @@
 ### I'm _**Ketan Jakhar**_, A Full-Stack-Web Development Enthusiast 👨‍💻 
 
 
-- 🎓 A Sophomore Year BTech student at <a href="https://www.lnmiit.ac.in/" target="_blank">**_The LNM Institute of Information Technology_**</a>, Jaipur.  
+- 🎓 A Pre-final Year BTech student at <a href="https://www.lnmiit.ac.in/" target="_blank">**_The LNM Institute of Information Technology_**</a>, Jaipur.  
   
 
 - 🌱 I’m currently learning _MaterialUI_, _MongoDB_ and _React_ 
@@ -17,7 +17,8 @@
 - ❓ Open to learn anything related to **MERN** stack and related technologies  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I use tabs over spaces
+- 💻 Portfolio: https://ketanjakhar.herokuapp.com/
   
 
 <br/>
