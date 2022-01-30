@@ -2,7 +2,7 @@
 
 <br/>
 
-### I'm _**Ketan Jakhar**_, A Full-Stack-Web Development Enthusiast 👨‍💻 
+### I'm _**Ketan Jakhar**_, A Backend Development Enthusiast 👨‍💻 
 
 
 - 🎓 A Pre-final Year BTech student at <a href="https://www.lnmiit.ac.in/" target="_blank">**_The LNM Institute of Information Technology_**</a>, Jaipur.  
