@@ -5,16 +5,16 @@
 ### I'm _**Ketan Jakhar**_, A Backend Development Enthusiast 👨‍💻 
 
 
-- 🎓 A Pre-final Year BTech student at <a href="https://www.lnmiit.ac.in/" target="_blank">**_The LNM Institute of Information Technology_**</a>, Jaipur.  
+- 🎓 A Final Year BTech student at <a href="https://www.lnmiit.ac.in/" target="_blank">**_The LNM Institute of Information Technology_**</a>, Jaipur.  
   
 
-- 🌱 I’m currently learning _MaterialUI_, _TypeScript_ and _React_ 
+- 🌱 I’m currently learning _Solidity_, _TypeScript_ and _React_ 
   
 
 - 🔭 Goal-oriented and driven along with strong collaboration skills  
   
 
-- ❓ Open to learn anything related to **MERN** stack and related technologies  
+- ❓ Open to learn anything related to **MERN** stack **Blockchain** and related technologies  
   
 
 - ⚡ Fun fact: I use tabs over spaces
