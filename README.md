@@ -5,8 +5,9 @@
 ### I'm _**Ketan Jakhar**_, A Backend Developer 👨‍💻 
 
 - 🏗️ Buidling next-gen backends
+- 👨🏻‍💻 Backend dev @ Zelta Labs
 
-- 🎓 A Final Year BTech student at <a href="https://www.lnmiit.ac.in/" target="_blank">**_The LNM Institute of Information Technology_**</a>, Jaipur.  
+- 🎓 A 2023 Graduate from <a href="https://www.lnmiit.ac.in/" target="_blank">**_The LNM Institute of Information Technology_**</a>, Jaipur.  
   
 
 - 🌱 I’m currently learning _Solidity_,
